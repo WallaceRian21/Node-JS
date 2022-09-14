@@ -1,0 +1,17 @@
+2022-09-14T17:07:35.877Z [store-api] error undefined undefined - undefined
+2022-09-14T17:08:07.751Z [store-api] error undefined undefined - undefined
+2022-09-14T17:17:29.180Z [store-api] error undefined undefined - undefined
+2022-09-14T17:17:44.882Z [store-api] error undefined undefined - undefined
+2022-09-14T17:18:38.830Z [store-api] error undefined undefined - undefined
+2022-09-14T17:40:17.851Z [store-api] error POST  - Name, CPF, Phone, Email e Address são obrigatórios.
+2022-09-14T19:15:54.852Z [store-api] error POST  - Logger is not defined
+2022-09-14T19:15:56.596Z [store-api] error POST  - Logger is not defined
+2022-09-14T19:16:35.742Z [store-api] error POST  - Logger is not defined
+2022-09-14T19:16:36.770Z [store-api] error POST  - Logger is not defined
+2022-09-14T19:17:55.836Z [store-api] error POST  - Logger is not defined
+2022-09-14T19:30:34.277Z [store-api] error POST  - Logger is not defined
+2022-09-14T19:37:13.912Z [store-api] error POST  - Logger is not defined
+2022-09-14T19:37:15.330Z [store-api] error POST  - Logger is not defined
+2022-09-14T19:38:46.834Z [store-api] error POST  - Logger is not defined
+2022-09-14T20:22:13.930Z [store-api] error POST  - Logger is not defined
+2022-09-14T20:22:47.799Z [store-api] info POST /client - {"name":"João","cpf":"235099180","phone":"31989896655","email":"joão@gmail.com","address":"Rua x, n 100"}
