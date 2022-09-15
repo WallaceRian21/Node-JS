@@ -15,3 +15,24 @@
 2022-09-14T19:38:46.834Z [store-api] error POST  - Logger is not defined
 2022-09-14T20:22:13.930Z [store-api] error POST  - Logger is not defined
 2022-09-14T20:22:47.799Z [store-api] info POST /client - {"name":"João","cpf":"235099180","phone":"31989896655","email":"joão@gmail.com","address":"Rua x, n 100"}
+2022-09-14T20:41:54.025Z [store-api] info POST /client - {"name":"João","cpf":"235099180","phone":"31989896655","email":"joão@gmail.com","address":"Rua x, n 100"}
+2022-09-14T20:42:42.318Z [store-api] info POST /client - {"name":"João","cpf":"235099180","phone":"31989896655","email":"joão@gmail.com","address":"Rua x, n 100"}
+2022-09-14T20:46:12.727Z [store-api] info POST /client - {"name":"João","cpf":"235099180","phone":"31989896655","email":"joão@gmail.com","address":"Rua x, n 100"}
+2022-09-14T20:46:15.381Z [store-api] info POST /client - {"name":"João","cpf":"235099180","phone":"31989896655","email":"joão@gmail.com","address":"Rua x, n 100"}
+2022-09-14T20:46:43.420Z [store-api] info POST /client - {"name":"João","cpf":"235099180","phone":"31989896655","email":"joão@gmail.com","address":"Rua x, n 100"}
+2022-09-14T21:13:42.583Z [store-api] info POST /client - {"name":"João","cpf":"235099180","phone":"31989896655","email":"joão@gmail.com","address":"Rua x, n 100"}
+2022-09-15T16:18:09.538Z [store-api] error GET  - clientService.getClients is not a function
+2022-09-15T16:19:28.619Z [store-api] error POST  - Release called on client which has already been released to the pool.
+2022-09-15T16:20:34.446Z [store-api] info GET /client
+2022-09-15T16:20:36.274Z [store-api] info GET /client
+2022-09-15T16:20:49.976Z [store-api] info GET /client
+2022-09-15T16:24:39.396Z [store-api] info GET /client
+2022-09-15T20:22:26.283Z [store-api] error GET  - id is not defined
+2022-09-15T20:22:30.156Z [store-api] error POST  - Release called on client which has already been released to the pool.
+2022-09-15T20:25:13.490Z [store-api] error POST  - Release called on client which has already been released to the pool.
+2022-09-15T20:25:46.390Z [store-api] error GET  - id is not defined
+2022-09-15T20:25:47.122Z [store-api] error GET  - id is not defined
+2022-09-15T20:25:50.408Z [store-api] info GET /client
+2022-09-15T20:26:08.366Z [store-api] error GET  - id is not defined
+2022-09-15T20:26:18.896Z [store-api] error POST  - Release called on client which has already been released to the pool.
+2022-09-15T20:26:49.170Z [store-api] error POST  - Release called on client which has already been released to the pool.

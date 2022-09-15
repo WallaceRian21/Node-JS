@@ -1,4 +1,3 @@
-import winston from "winston";
 import clientService from "../services/client.service.js";
 
 async function createClient(req, res, next) {
@@ -14,6 +13,26 @@ async function createClient(req, res, next) {
     }
 }
 
+async function getClients(req, res, next) {
+   try {
+      res.send(await clientService.getClients());
+      logger.info("GET /client");
+   } catch (err) {
+     next(err);
+   }
+}
+
+async function getClient(req, res, next) {
+    try {
+         res.send(await clientService.getClient(req.params.id));
+         logger.info("GET /client");
+    } catch (err) {
+        next(err);
+    }
+}
+
 export default {
-    createClient
+    createClient,
+    getClients,
+    getClient
 }
